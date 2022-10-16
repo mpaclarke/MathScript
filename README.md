@@ -1,6 +1,6 @@
 # MathScript
 
-This shell script was written for a college assignment. The module taught computer architecture and explored the Linus operating system. 
+This shell script was written for a college assignment. The module taught computer architecture and explored the Linux operating system. 
 
 Notes about the assignment:
   - The module taught the Linux command line, tools and shells.
